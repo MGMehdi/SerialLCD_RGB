@@ -1,0 +1,30 @@
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.exe.config
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.exe
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.pdb
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csprojAssemblyReference.cache
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\MainWindow.g.cs
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\App.g.cs
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino_MarkupCompile.cache
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino_MarkupCompile.lref
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\MainWindow.baml
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.g.resources
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.Properties.Resources.resources
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csproj.GenerateResource.cache
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.exe
+C:\Users\Mehdi\Data\Documents\Visual Studio 2019\Code\WPF_Arduino\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.pdb
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.exe.config
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.exe
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\bin\Debug\UI_Arduino.pdb
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csprojAssemblyReference.cache
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\MainWindow.g.cs
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\App.g.cs
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino_MarkupCompile.cache
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino_MarkupCompile.lref
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\MainWindow.baml
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.g.resources
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.Properties.Resources.resources
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csproj.GenerateResource.cache
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.csproj.CoreCompileInputs.cache
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.exe
+E:\Mega\Code\#1_SerialLCD_RGB\UI_Arduino\UI_Arduino\obj\Debug\UI_Arduino.pdb
